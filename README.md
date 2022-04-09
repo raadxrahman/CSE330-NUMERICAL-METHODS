@@ -1,0 +1,2 @@
+# CSE330-NUMERICAL-METHODS
+Computer Arithmetic: floating point representation of numbers, arithmetic operations with normalized floating point numbers; Iterative methods: different iterative methods for finding the roots of an equation and their computer implementation; Solution of simultaneous Algebraic Equations, Gauss elimination; Interpolation, Least square approximation of functions, Taylor series representation, Chebyshev series; Numerical differentiation and integration and Numerical Solution of Differential Equations.
